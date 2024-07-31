@@ -1,0 +1,109 @@
+*{
+    border: 0;
+    margin:0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.nav{
+    background-color: rgb(9, 13, 40);
+    display: flex;
+    justify-content: space-between;
+}
+.image img{
+    width:100px;
+    height:60px;
+}
+.font1{
+    color:white;
+}
+.font1 img{
+    width:15px;
+
+}
+.search{
+    border:0;
+    color:white
+}
+.button button{
+    background-color: orange;
+}
+.flag{
+    margin-top: 10px;
+}
+.aftersearch{
+    color:white;
+}
+.nextsearch{
+    color:white;
+}
+.last{
+    color: white;
+}
+.nextnav{
+    background-color: rgba(17, 23, 44, 0.736);
+    padding: 8px 8px;
+}
+.nextnav ul{
+    list-style: none;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    margin-right: 700px;
+}
+.body img{
+    width: 100%;
+    height: 300px;
+}
+
+.forbox{
+    background-size: cover;
+}
+.boxes{
+    display: flex;
+    justify-content: space-between;
+}
+.box{
+    width: 300px;
+    height: 200px; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 5px;
+}
+.box img{
+    width:100px;
+    height:100px;
+}
+.box1{
+    width: 300px;
+    height: 200px; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 5px;
+}
+.box1 img{
+    width:100px;
+    height:100px;
+}
+.box2{
+    width: 300px;
+    height: 200px; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin-left: 15px;
+}
+.box3 img{
+    width:80%;
+    height:80%;
+    margin-top: 60px;
+}
+.box3{
+    width: 300px;
+    height: 40px; 
+    border: 1px solid rgb(0, 0, 0);
+    padding: 50px;
+    margin: 5px;
+}
+.box3 button{
+    background-color: rgb(235, 172, 95);
+    padding: 10px 5px;
+    margin:
+}
